@@ -45,7 +45,46 @@
 | Icons | Lucide React |
 
 ---
-
+ 📸 Screenshots
+Here is a look at the modern, premium glassmorphism interface of VibeTrip:
+<div align="center">
+  <table style="border: none;">
+    <tr>
+      <td width="33%" align="center">
+        <strong>Login Screen</strong><br/>
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Login Screen" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+      <td width="33%" align="center">
+        <strong>Vibe Curation</strong><br/>
+        <!-- Replace src with your curation screen screenshot -->
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Vibe Curation" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+      <td width="33%" align="center">
+        <strong>Map & Directions</strong><br/>
+        <!-- Replace src with your maps screen screenshot -->
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Map View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="33%" align="center">
+        <strong>Analytics</strong><br/>
+        <!-- Replace src with your analytics screen screenshot -->
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Analytics View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+      <td width="33%" align="center">
+        <strong>Saved Vibes</strong><br/>
+        <!-- Replace src with your profile/saved vibes screenshot -->
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Saved Vibes" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+      <td width="33%" align="center">
+        <strong>9:16 Export Card</strong><br/>
+        <!-- Replace src with your share as image card screenshot -->
+        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Share Card" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+---
 ##  Getting Started
 
 ### Prerequisites
