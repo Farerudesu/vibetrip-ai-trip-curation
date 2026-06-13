@@ -1,6 +1,6 @@
 # Contributing to VibeTrip
 
-Thanks for your interest in contributing! 🎉
+Thanks for your interest in contributing!
 
 ## Getting Started
 
@@ -25,15 +25,15 @@ Thanks for your interest in contributing! 🎉
 
 ## Code Style
 
-- **TypeScript** — All source files use `.tsx` / `.ts`
-- **Components** — One component per file in `src/components/`
-- **Translations** — Add both English and Indonesian translations in `src/data/constants.tsx`
-- **Theme Support** — All new UI must support both dark and light themes via `ThemeContext`
-- **No hardcoded secrets** — All API keys and config go in `.env` (never committed)
+- **TypeScript**  -  All source files use `.tsx` / `.ts`
+- **Components**  -  One component per file in `src/components/`
+- **Translations**  -  Add both English and Indonesian translations in `src/data/constants.tsx`
+- **Theme Support**  -  All new UI must support both dark and light themes via `ThemeContext`
+- **No hardcoded secrets**  -  All API keys and config go in `.env` (never committed)
 
 ## Pull Request Guidelines
 
-- Keep PRs focused — one feature or fix per PR
+- Keep PRs focused  -  one feature or fix per PR
 - Write a clear description of what changed and why
 - Include screenshots for UI changes
 - Make sure `npm run build` passes before submitting
