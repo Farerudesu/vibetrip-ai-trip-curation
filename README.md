@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="VibeTrip Banner" src="https://i.ibb.co.com/XkszW8zD/Screenshot-2026-06-14-005720.png" />
+  <img width="1200" height="475" alt="VibeTrip Banner" src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" />
 
   # 🌴 VibeTrip
 
