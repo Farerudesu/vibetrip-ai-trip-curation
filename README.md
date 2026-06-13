@@ -1,7 +1,7 @@
 <div align="center">
   <img width="1200" height="475" alt="VibeTrip Banner" src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" />
 
-  # 🌴 VibeTrip
+  #  VibeTrip
 
   **AI-Powered Trip Curation Based on Your Vibe**
 
@@ -14,24 +14,24 @@
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🤖 **AI Route Curation**  -  Describe your mood or vibe, and Gemini AI generates a curated multi-stop route with real places
-- 🗺️ **Interactive Google Maps**  -  Full map view with polyline routes, place markers, and navigation links
-- 🌦️ **Real-Time Weather**  -  Current conditions, hourly forecasts, air quality index, and pollen data for your route
-- 🔄 **Route Refinement**  -  Chat with the AI to modify your route on the fly
-- 💾 **Saved Vibes**  -  Bookmark your favorite routes and revisit them later
-- 📜 **Prompt History**  -  Every curation is saved so you can look back at past trips
-- 📊 **Analytics Dashboard**  -  Track your travel stats, vibe categories, and trip patterns
-- 📸 **Share as Image**  -  Export beautiful trip summaries as 9:16 portrait cards
-- 🌙 **Dark & Light Themes**  -  Full theme support persisted across sessions
-- 🌐 **Bilingual (EN/ID)**  -  Complete English and Indonesian translations
-- 🔐 **Google Sign-In**  -  Firebase authentication on both web and Android
-- 📱 **Native Android App**  -  Full APK build via Capacitor
+-  **AI Route Curation**  -  Describe your mood or vibe, and Gemini AI generates a curated multi-stop route with real places
+-  **Interactive Google Maps**  -  Full map view with polyline routes, place markers, and navigation links
+-  **Real-Time Weather**  -  Current conditions, hourly forecasts, air quality index, and pollen data for your route
+-  **Route Refinement**  -  Chat with the AI to modify your route on the fly
+-  **Saved Vibes**  -  Bookmark your favorite routes and revisit them later
+-  **Prompt History**  -  Every curation is saved so you can look back at past trips
+-  **Analytics Dashboard**  -  Track your travel stats, vibe categories, and trip patterns
+-  **Share as Image**  -  Export beautiful trip summaries as 9:16 portrait cards
+-  **Dark & Light Themes**  -  Full theme support persisted across sessions
+-  **Bilingual (EN/ID)**  -  Complete English and Indonesian translations
+-  **Google Sign-In**  -  Firebase authentication on both web and Android
+-  **Native Android App**  -  Full APK build via Capacitor
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -144,7 +144,7 @@ The APK will be at: `android/app/build/outputs/apk/debug/app-debug.apk`
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 vibetrip/
