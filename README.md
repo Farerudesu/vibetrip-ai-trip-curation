@@ -46,40 +46,35 @@
 
 ---
  📸 Screenshots
-Here is a look at the modern, premium glassmorphism interface of VibeTrip:
+Here is a look at the interface of VibeTrip:
 <div align="center">
   <table style="border: none;">
     <tr>
       <td width="33%" align="center">
         <strong>Login Screen</strong><br/>
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Login Screen" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/0161ebe0-1ce9-4d97-9df7-6b2f4ffcfc87" alt="Login Screen" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
       <td width="33%" align="center">
         <strong>Vibe Curation</strong><br/>
-        <!-- Replace src with your curation screen screenshot -->
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Vibe Curation" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/214d9f0b-b897-432f-97bd-a22938500afa" alt="Vibe Curation" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
       <td width="33%" align="center">
         <strong>Map & Directions</strong><br/>
-        <!-- Replace src with your maps screen screenshot -->
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Map View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/e5e934b8-9cc1-493d-bbf5-af68ec8ffa1b" alt="Map View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
     </tr>
     <tr>
       <td width="33%" align="center">
         <strong>Analytics</strong><br/>
-        <!-- Replace src with your analytics screen screenshot -->
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Analytics View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/53f749a7-716f-4874-a571-6dc857940c2c" alt="Analytics View" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
       <td width="33%" align="center">
         <strong>Saved Vibes</strong><br/>
-        <!-- Replace src with your profile/saved vibes screenshot -->
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Saved Vibes" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/ced4245f-8876-4cab-a756-7448358edb69" alt="Saved Vibes" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
       <td width="33%" align="center">
         <strong>9:16 Export Card</strong><br/>
-        <!-- Replace src with your share as image card screenshot -->
-        <img src="https://i.ibb.co.com/gb7Yfr1N/Screenshot-2026-06-14-005837.png" alt="Share Card" width="240" style="border-radius: 12px; margin-top: 8px;"/>
+        <img src="https://github.com/user-attachments/assets/727e769c-66ad-44b6-86c4-9b893b0ba1f5" alt="Share Card" width="240" style="border-radius: 12px; margin-top: 8px;"/>
       </td>
     </tr>
   </table>
