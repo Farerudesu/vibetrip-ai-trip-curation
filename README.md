@@ -79,7 +79,7 @@ Here is a look at the interface of VibeTrip:
     </tr>
   </table>
 </div>
----
+
 
 ##  Getting Started
 
