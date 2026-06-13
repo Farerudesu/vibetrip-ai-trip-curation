@@ -45,7 +45,7 @@
 | Icons | Lucide React |
 
 ---
- 📸 Screenshots
+ ##  Screenshots
 Here is a look at the interface of VibeTrip:
 <div align="center">
   <table style="border: none;">
@@ -80,6 +80,7 @@ Here is a look at the interface of VibeTrip:
   </table>
 </div>
 ---
+
 ##  Getting Started
 
 ### Prerequisites
