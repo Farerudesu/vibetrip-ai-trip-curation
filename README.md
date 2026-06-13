@@ -5,7 +5,7 @@
 
   **AI-Powered Trip Curation Based on Your Vibe**
 
-  Tell the AI how you're feeling, and it curates a personalized trip route — complete with real places, live weather, air quality, and vibe-matched destinations.
+  Tell the AI how you're feeling, and it curates a personalized trip route  -  complete with real places, live weather, air quality, and vibe-matched destinations.
 
   Built with React · Gemini AI · Google Maps · Firebase · Capacitor
 
@@ -16,18 +16,18 @@
 
 ## ✨ Features
 
-- 🤖 **AI Route Curation** — Describe your mood or vibe, and Gemini AI generates a curated multi-stop route with real places
-- 🗺️ **Interactive Google Maps** — Full map view with polyline routes, place markers, and navigation links
-- 🌦️ **Real-Time Weather** — Current conditions, hourly forecasts, air quality index, and pollen data for your route
-- 🔄 **Route Refinement** — Chat with the AI to modify your route on the fly
-- 💾 **Saved Vibes** — Bookmark your favorite routes and revisit them later
-- 📜 **Prompt History** — Every curation is saved so you can look back at past trips
-- 📊 **Analytics Dashboard** — Track your travel stats, vibe categories, and trip patterns
-- 📸 **Share as Image** — Export beautiful trip summaries as 9:16 portrait cards
-- 🌙 **Dark & Light Themes** — Full theme support persisted across sessions
-- 🌐 **Bilingual (EN/ID)** — Complete English and Indonesian translations
-- 🔐 **Google Sign-In** — Firebase authentication on both web and Android
-- 📱 **Native Android App** — Full APK build via Capacitor
+- 🤖 **AI Route Curation**  -  Describe your mood or vibe, and Gemini AI generates a curated multi-stop route with real places
+- 🗺️ **Interactive Google Maps**  -  Full map view with polyline routes, place markers, and navigation links
+- 🌦️ **Real-Time Weather**  -  Current conditions, hourly forecasts, air quality index, and pollen data for your route
+- 🔄 **Route Refinement**  -  Chat with the AI to modify your route on the fly
+- 💾 **Saved Vibes**  -  Bookmark your favorite routes and revisit them later
+- 📜 **Prompt History**  -  Every curation is saved so you can look back at past trips
+- 📊 **Analytics Dashboard**  -  Track your travel stats, vibe categories, and trip patterns
+- 📸 **Share as Image**  -  Export beautiful trip summaries as 9:16 portrait cards
+- 🌙 **Dark & Light Themes**  -  Full theme support persisted across sessions
+- 🌐 **Bilingual (EN/ID)**  -  Complete English and Indonesian translations
+- 🔐 **Google Sign-In**  -  Firebase authentication on both web and Android
+- 📱 **Native Android App**  -  Full APK build via Capacitor
 
 ---
 
@@ -57,7 +57,7 @@
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/vibetrip.git
+git clone https://github.com/Farerudesu/vibetrip.git
 cd vibetrip
 npm install
 ```
@@ -149,7 +149,7 @@ The APK will be at: `android/app/build/outputs/apk/debug/app-debug.apk`
 ```
 vibetrip/
 ├── src/
-│   ├── App.tsx                 # Main app — orchestrates all views & state
+│   ├── App.tsx                 # Main app  -  orchestrates all views & state
 │   ├── firebase.ts             # Firebase init, auth helpers
 │   ├── main.tsx                # React entry point
 │   ├── index.css               # Global styles & glassmorphism
@@ -174,7 +174,7 @@ vibetrip/
 │   │   └── constants.tsx       # Translations, icons, hidden gems
 │   └── types/
 │       └── index.ts            # TypeScript interfaces
-├── server.ts                   # Express backend — Gemini + Maps proxy
+├── server.ts                   # Express backend  -  Gemini + Maps proxy
 ├── android/                    # Capacitor Android project
 ├── capacitor.config.ts         # Capacitor configuration
 ├── vite.config.ts              # Vite build configuration
@@ -192,7 +192,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## 📄 License
 
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License  -  see the [LICENSE](LICENSE) file for details.
 
 ---
 
