@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VibeTrip</string>
+    <string name="title_activity_main">VibeTrip</string>
+    <string name="package_name">com.vibetrip.app</string>
+    <string name="custom_url_scheme">com.vibetrip.app</string>
+</resources>
